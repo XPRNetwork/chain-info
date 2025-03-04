@@ -26,5 +26,5 @@
    "lightEndpoints":[
       "https://proton.light-api.net"
    ],
-   "atomicassetsEndpoint": "https://proton.api.atomicassets.io"
+   "atomicassetsEndpoint": "https://aa-xprnetwork-main.saltant.io"
 }
