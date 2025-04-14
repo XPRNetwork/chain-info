@@ -25,5 +25,5 @@
    "lightEndpoints":[
       "https://testnet-lightapi.eosams.xeos.me"
    ],
-   "atomicassetsEndpoint": "https://aa-xprnetwork-test.saltant.io/health"
+   "atomicassetsEndpoint": "https://aa-xprnetwork-test.saltant.io"
 }
