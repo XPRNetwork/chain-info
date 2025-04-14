@@ -1,27 +1,27 @@
 {
    "chainId":"384da888112027f0321850a169f737c33e53b388aad48b5adace4bab97f437e0",
-   "explorerUrl":"https://protonscan.io",
-   "explorerName":"ProtonScan.io",
+   "explorerUrl":"https://explorer.xprnetwork.org/",
+   "explorerName":"Explorer xprnetwork",
    "resourceTokenSymbol":"SYS",
    "resourceTokenContract":"eosio.token",
    "systemTokenSymbol":"XPR",
    "systemTokenContract":"eosio.token",
    "rpcEndpoints":[
-      "https://mainnet-rpc.api.protondex.com",
+      "https://rpc.api.mainnet.metalx.com",
       "https://api.protonnz.com",
-      "https://proton.greymass.com"
+      "https://proton-api.alvosec.com"
    ],
    "actionsRpcEndpoints":[
-      "https://proton.greymass.com",
+      "https://proton-api.alvosec.com",
       "https://proton.cryptolions.io",
-      "https://proton.eosusa.news"
+      "https://proton.eosusa.io"
    ],
    "hyperionEndpoints":[
+      "https://api-xprnetwork-main.saltant.io",
       "https://proton.eosusa.io",
-      "https://proton.pink.gg",
-      "https://aa-proton.saltant.io",
-      "https://proton.cryptolions.io",
-      "https://frankfurt.protondata.net"
+      "https://proton-api.eosiomadrid.io",
+      "https://proton.protonuk.io",
+      "https://proton.cryptolions.io"
    ],
    "lightEndpoints":[
       "https://proton.light-api.net"
