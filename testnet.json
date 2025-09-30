@@ -18,6 +18,7 @@
       "https://testnet-api.alvosec.com"
    ],
    "hyperionEndpoints":[
+      "https://hyp-xprtest.api.testnet.metalx.com",
       "https://test.proton.eosusa.io",
       "https://api-xprnetwork-test.saltant.io",
       "https://proton-api-testnet.eosiomadrid.io"
