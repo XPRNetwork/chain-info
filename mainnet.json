@@ -17,7 +17,7 @@
       "https://proton.eosusa.io"
    ],
    "hyperionEndpoints":[
-      "https://hyp-xpr.api.mainnet.metalx.com/",
+      "https://hyp-xpr.api.mainnet.metalx.com",
       "https://api-xprnetwork-main.saltant.io",
       "https://proton.eosusa.io",
       "https://proton-api.eosiomadrid.io",
